@@ -1,0 +1,2 @@
+when we want to include a component from another file,
+use < />file not {}
